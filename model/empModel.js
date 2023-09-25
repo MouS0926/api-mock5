@@ -5,7 +5,7 @@ const EmpSchema=mongoose.Schema({
     lname:String,
     email:String,
     dept:String,
-    salary:Number
+    salary:String
 
     
 },{
